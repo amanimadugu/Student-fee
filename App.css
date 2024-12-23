@@ -1,0 +1,42 @@
+
+.app-container {
+    background-color: skyblue; /* Apply background color */
+    padding: 20px;
+  }
+  
+  .title {
+    text-align: center;
+    color: #333;
+  }
+  
+  .search-field {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border-color: #ccc;
+    padding: 12px;
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f1f1f1;
+  }
+  
+  tr:hover {
+    background-color: #f9f9f9;
+  }
+  
